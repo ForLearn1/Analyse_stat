@@ -11,7 +11,7 @@ import pandas as pd
 """ Dont il faudra bien spécifier le chemin d'accès au fichier afin que 
  programme puisse marcher bien """
  
-file_path = 'C:/Users/User/Desktop/Gauss/sample_data.csv'
+file_path = 'C:/Users/User/Desktop/Gauss/sample_data.csv' # Il faudra penser à modifier le chemin d'accès à ce fichier
 data = pd.read_csv(file_path, header=None)
 
 #=========================================================================
