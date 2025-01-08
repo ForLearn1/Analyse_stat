@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1721255386 source:c:\users\user\desktop\gaussgauss\main.c
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<stdlib.h>
+
